@@ -57,3 +57,4 @@ while (exibirMenu)
 }
 
 Console.WriteLine("O programa se encerrou");
+Environment.Exit(0);
